@@ -3,4 +3,3 @@ main:
     - { url: '/about', text: 'About' }
     - { url: '/cv/', text: 'My CV' }
     - { url: '/contact', text: 'Contact' }
-    - { url: 'http://www.github.com/Thobber94', text: 'My GitHub page' }
