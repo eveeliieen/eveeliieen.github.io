@@ -1,10 +1,10 @@
 # Site Settings
-title: 'Thomas Bergby'
+title: 'Evelien Jacobs'
 description: 'A webpage for Thomas Bergby'
-url: 'http://thobber94.github.io' # the base hostname & protocol for your site
-footer_text: '&#169; 2016 Thomas Bergby - ALL RIGHTS RESERVED'
+url: 'http://eveeliieen.github.io' # the base hostname & protocol for your site
+footer_text: '&#169; 2016 Evelien Jacobs - ALL RIGHTS RESERVED'
 
 # Admin Settings
-admin_name: 'Thomas Bergby'
-admin_email: 'thomas.bergby@gmail.com'
+admin_name: 'Evelien Jacobs'
+admin_email: 'evelien@jaco.bs'
 
