@@ -1,0 +1,31 @@
+---
+layout: inner
+---
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body onload="functionTest()">
+    <p>This is a post that tries out the JavaScript possibilities with Jekyll. </p>
+    <!--more-->
+    <p>Code that I used:</p>
+
+    {% highlight javascript %}
+    function functionTest()
+    {
+        document.getElementById("test").innerHTML = "It worked!";
+    }
+    {% endhighlight %}
+
+    <p>The text below should be changed.</p>
+    <div id="test">This text should be changed to something else!</div>
+</body>
+<script>
+    function functionTest()
+    {
+        document.getElementById("test").innerHTML = "It worked!";
+    }
+
+</script>
+</html>
