@@ -4,8 +4,8 @@
 @import '../_sass/syntax-highlighting';
 
 
-$scotch-primary: #7ed12b;
-$scotch-secondary: #cbc6c6;
+$evelien-primary: #7ed12b;
+$evelien-secondary: #cbc6c6;
 
 %oswald { font-family: 'Oswald', sans-serif; }
 %roboto { font-family: 'Roboto Condensed', sans-serif; }
@@ -29,9 +29,9 @@ a
     outline: none !important;
     text-decoration: none !important;
     transition: all 225ms ease;
-    color: $scotch-secondary;
+    color: $evelien-secondary;
 
-    &:hover { color: #6165FF; }
+    &:hover { color: $evelien-primary; }
 }
 .btn
 {
@@ -62,7 +62,7 @@ nav.navbar
         i
         {
             transition: inherit;
-            color: $scotch-primary;
+            color: $evelien-primary;
             transform: scale(1);
         }
 
